@@ -2184,7 +2184,7 @@ PrefabInstance:
     - target: {fileID: 2828505862012208060, guid: 62f7d772b1f4aca4f85c43f1b9c4ef0b,
         type: 3}
       propertyPath: m_text
-      value: 'worng
+      value: 'wrong
 
         way'
       objectReference: {fileID: 0}
